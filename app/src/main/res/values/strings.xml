@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">task1</string>
+    <string name="search_string">Search</string>
+    <string name="filter_string">Filter</string>
+    <string name="title">Product title</string>
+    <string name="product_descripion">Product discription</string>
+</resources>

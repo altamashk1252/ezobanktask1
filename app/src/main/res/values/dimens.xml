@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gridspace">16dp</dimen>
+    <dimen name="gridspacesmall">4dp</dimen>
+    <dimen name="margintopsecond">56dp</dimen>
+    <dimen name="card_landscape">188dp</dimen>
+    <dimen name="grid_spacingsmall">26dp</dimen>
+    <dimen name="grid_height_landscape">140dp</dimen>
+</resources>
